@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3d9f5a0e-7d82-44db-88bd-dd816cc69a18",
+    "name": "Flixbus",
+    "valueCents": 1900,
+    "quantity": 1,
+    "date": "2026-10-10",
+    "createdAt": "2026-10-06T12:30:09.839Z"
+  },
+  {
+    "id": "4d7a8db6-873e-48b0-bb5e-c7a10ec951c1",
+    "name": "Flixbus",
+    "valueCents": 2400,
+    "quantity": 1,
+    "date": "2026-10-11",
+    "createdAt": "2026-10-06T12:30:25.382Z"
+  },
+  {
+    "id": "08c90e40-c67d-4588-80c1-85d962cbd5fb",
+    "name": "accommodation",
+    "valueCents": 2500,
+    "quantity": 1,
+    "date": "2026-10-10",
+    "createdAt": "2026-10-06T12:30:52.431Z"
+  },
+  {
+    "id": "1d16cda2-5d4e-4a31-88be-2cb48627d730",
+    "name": "Meals",
+    "valueCents": 6000,
+    "quantity": 1,
+    "date": "2026-10-10",
+    "createdAt": "2026-10-06T12:31:48.989Z"
+  }
+]
